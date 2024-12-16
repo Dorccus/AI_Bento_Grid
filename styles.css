@@ -1,3 +1,9 @@
+.navbar-item {
+    background: url("https://aibentogrid.io") no-repeat left center;
+    background-size: contain;
+    padding-left: 60px; 
+}
+
 #implementation {
     color: rgb(4, 56, 99);
     font-size: 12px;
