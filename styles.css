@@ -4,19 +4,18 @@
     text-align: center;
 }
 
-/* .parent {
-    background-color: rgb(1, 37, 37);
+.parent {
+    background-color: rgb(138, 233, 233); 
     color: #fff;
-    display: grid;
+    /* display: grid; */
     font-size: 20px;
-    grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: repeat(6, 1fr);
-    grid-column-gap: 5px;
-    grid-row-gap: 5px;
-    } */
+    /* grid-template-columns: repeat(6, 1fr);
+    /* grid-template-rows: repeat(6, 1fr); */
+    /* grid-column-gap: 5px; 
+    grid-row-gap: 5px;  */
+    }
     
-    .div1 {
-        /* background-color: rgb(6, 59, 88); */
+    .div1 { 
         grid-area: 1 / 1 / 2 / 2;
         font-style: italic; 
     }
