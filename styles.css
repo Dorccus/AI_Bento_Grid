@@ -4,6 +4,10 @@
     padding-left: 60px; 
 }
 
+h1 {
+    background-color: rgb(4, 69, 82);
+}
+
 #implementation {
     color: rgb(4, 56, 99);
     font-size: 12px;
