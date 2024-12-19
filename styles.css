@@ -157,3 +157,7 @@ h1 {
         grid-area: 5 / 6 / 6 / 7; 
     
     }
+
+    footer {
+        background-color: rgb(15, 82, 108);
+    }
